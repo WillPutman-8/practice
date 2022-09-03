@@ -1,0 +1,123 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1{
+  margin: 100px auto 0 auto;
+  font-size: 5.62rem;
+  font-family: "Sacramento", serif;
+  color: #66BFBF;
+  line-height: 0.5;
+}
+h2{
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+h3{
+  font-family: "Montserrat", sans-serif;
+  color:#11999E;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-spacing: 20px;
+  border-width: 5px;
+  margin: auto;
+  position: relative;
+  width: 5%
+  }
+
+.heading{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 450px;
+  width: 15%;
+}
+.top-cloud{
+  position: absolute;
+  right:350px;
+  width: 15%;
+}
+
+.middle-container{
+  background-color: #FCF8E8;
+}
+.bottom-container{
+  background-color: #FCF8E8;
+}
+.body-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.link-img{
+  width: 55px;
+}
+.link-img:hover{
+  background-color: #FCF8E8;
+}
+.dev{
+  font-weight: normal;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 125px auto;
+  line-height: 2;
+  text-align: left;
+}
+.profile{
+  padding: 100px;
+}
+.mountain{
+  width: 50%;
+}
+.me-img{
+  width: 150px;
+}
+.bottom-container{
+  background-color: #E4F9F5;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.btn {
+  margin: 30px auto 30px auto;
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #30e3cb);
+  background-image: -moz-linear-gradient(top, #11cdd4, #30e3cb);
+  background-image: -ms-linear-gradient(top, #11cdd4, #30e3cb);
+  background-image: -o-linear-gradient(top, #11cdd4, #30e3cb);
+  background-image: linear-gradient(to bottom, #11cdd4, #30e3cb);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #3498db);
+  background-image: -moz-linear-gradient(top, #30e3cb, #3498db);
+  background-image: -ms-linear-gradient(top, #30e3cb, #3498db);
+  background-image: -o-linear-gradient(top, #30e3cb, #3498db);
+  background-image: linear-gradient(to bottom, #30e3cb, #3498db);
+  text-decoration: none;
+}
+.contact-me{
+  padding-bottom: 30px;
+}
+.end{
+  padding-bottom: 10px;
+}

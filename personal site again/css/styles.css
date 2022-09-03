@@ -1,0 +1,32 @@
+body{
+  background-color: #FCF8E8;
+  }
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-spacing: 20px;
+  border-width: 5px;
+  margin: auto;
+  width: 5%
+  }
+h1{
+  font-family: "Georgia","serif";
+  color: #66BFBF
+  }
+h3{
+  color: #66BFBF
+}
+.link{
+  background-color: #FCF8E8;
+  width: 7%;
+  height: auto;
+}
+.link:hover{
+  background-color: #66BFBF;
+
+}
+.heading{
+  font-size: 50px;
+}
